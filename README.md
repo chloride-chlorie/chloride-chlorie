@@ -1,6 +1,9 @@
 # Chlorie
 Hello, I'm Chlorie (chloride + chloe). I am a software developer who is focused primarily on video game anti-cheat systems.
 
+### Contacts
+- Discord: chloridechlorie
+
 ## Current Projects
 ### Chlorine
 An anti-cheat software mainly targeted towards Minecraft Bukkit servers.
